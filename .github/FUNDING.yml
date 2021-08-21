@@ -1,6 +1,6 @@
 # These are supported funding model platforms
 
-razorpay: https://rzp.io/l/ffhJ9IFz3
+razorpay: <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_HnlPy1rdVgePmy" async> </script> </form>
 github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
 patreon: # Replace with a single Patreon username
 open_collective: # Replace with a single Open Collective username
